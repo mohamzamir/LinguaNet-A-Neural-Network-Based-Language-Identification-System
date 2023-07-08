@@ -18,6 +18,26 @@
  git clone https://github.com/mohamzamir/LinguaNet-A-Neural-Network-Based-Language-Identification-System
  ```
 
+## Example
+
+ #### 1. When you load the page, it is visible to you like this 
+
+ <img width="1439" alt="Screenshot 2023-07-08 at 10 24 53 PM" src="https://github.com/mohamzamir/LinguaNet-A-Neural-Network-Based-Language-Identification-System/assets/91626899/3a389d8d-ac8f-4a5a-a083-14be1dc6e81b">
+
+ #### 2. When you click on the languages, it gives you example of the languages you can use to recognize.
+ 
+<img width="1433" alt="Screenshot 2023-07-08 at 10 26 04 PM" src="https://github.com/mohamzamir/LinguaNet-A-Neural-Network-Based-Language-Identification-System/assets/91626899/fdd7be25-75e3-4b29-b2b2-04c094283c26">
+
+ #### 3. In this example, I have put one Spanish sentence in the Langauge box.
+
+<img width="1440" alt="Screenshot 2023-07-08 at 10 27 57 PM" src="https://github.com/mohamzamir/LinguaNet-A-Neural-Network-Based-Language-Identification-System/assets/91626899/d8bcef62-ffb0-4999-b3e3-da7f9757a595">
+
+#### 4. When 'Submit' button is clicked, it shows the identified langauge.
+
+<img width="1440" alt="Screenshot 2023-07-08 at 10 28 56 PM" src="https://github.com/mohamzamir/LinguaNet-A-Neural-Network-Based-Language-Identification-System/assets/91626899/f2c4fa5b-3cd0-46f8-bc6c-2595af1b43c3">
+
+
+
  ## Model
  The model is a Deep Neural Network (DNN) implemented using Python and TensorFlow. It utilizes character n-grams to create distinct feature sets for different languages, and these features are used to classify the language of a given text input.
 
